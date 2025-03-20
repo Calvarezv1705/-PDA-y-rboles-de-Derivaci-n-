@@ -30,7 +30,7 @@
 
    - **Paso 1:** Visitar la página oficial de Graphviz en: [https://graphviz.org/download/](https://graphviz.org/download/)
    - **Paso 2:** En la sección de descargas, buscar la versión para Windows (por ejemplo, "Graphviz Download for Windows 64-bit") y hacer clic en el enlace para descargar el instalador.
-   - **Paso 3:** Una vez descargado el archivo (por ejemplo, `graphviz-2.49.3.msi` o una versión similar), ejecutarlo para iniciar el proceso de instalación.
+   - **Paso 3:** Una vez descargado el archivo (por ejemplo, `graphviz-12.2.1 (64-bit) EXE installer [sha256]` o una versión similar), ejecutarlo para iniciar el proceso de instalación.
    - **Paso 4:** Seguir las instrucciones del instalador:
      - Aceptar los términos de la licencia.
      - Seleccionar el directorio de instalación (por defecto suele ser `C:\Program Files\Graphviz`).
