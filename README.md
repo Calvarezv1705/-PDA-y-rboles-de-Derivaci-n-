@@ -1,7 +1,7 @@
 # PDA y Árboles de Derivación
 
 ## 1. Información de los Estudiantes del equipo
-- **Nombre del estudiante:** Camilo Alvarez Villegas, Sara Echeverri
+- **Nombre de los estudiantes:** Camilo Alvarez Villegas, Sara Echeverri
 - **Número de clase:** Camilo Alvarez Villegas (Lunes de 6pm-9pm 7308), Sara Echeverri (Miércoles de 6pm-9pm 7309)
 
 ## 2. Versiones del Sistema Operativo, Lenguaje de Programación y Herramientas
