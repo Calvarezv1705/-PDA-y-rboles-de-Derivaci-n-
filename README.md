@@ -1,4 +1,4 @@
-# Implementación de Algoritmos para el Reconocimiento y Visualización de Lenguajes Formales: PDA y Árboles de Derivación
+# PDA y Árboles de Derivación
 
 ## 1. Información de los Estudiantes del equipo
 - **Nombre del estudiante:** Camilo Alvarez Villegas, Sara Echeverri
