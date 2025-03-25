@@ -61,6 +61,7 @@
      ```bash
      python ALGORITHM_3_LFCO_2025_STUDENT_INITIALS.py
      ```
+     (Para visualizar todos los arboles tiene que ir cerrando cada ventana hasta que aparezcan todos)
 
 6. Cada script mostrará los resultados en la consola o en ventanas gráficas (en el caso de los árboles de derivación).
 
